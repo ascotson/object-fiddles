@@ -3,9 +3,12 @@
 
 //Create an object called me. Give it a key of name with the value being your name, and another key of age with the value being your age. Then alert your name using dot notation.
 
-  //Code here
+  var me = {
+    name: "Andrew",
+    age:  37
+  };
 
-
+alert(me.name);
 
 
 //NEXT PROBLEM
@@ -196,9 +199,9 @@ object. One called 'alertHello' which alerts 'hello' and another method called l
 // Create a function called MakeCard which takes in all the data it needs to make a Credit Card object and returns that object so that whenever you invoke MakeCard, you get a brand new credit card.
 
   //Code Here
-  
-  
-  
+
+
+
 //NEXT PROBLEM
 
 
@@ -209,5 +212,3 @@ object. One called 'alertHello' which alerts 'hello' and another method called l
 */
 
   //Code Here
-
-
